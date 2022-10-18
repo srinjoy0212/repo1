@@ -1,3 +1,3 @@
 print("welcome to exploring present")
 print("New video coming soon")
-print(date)
+print("01/10/2022")
